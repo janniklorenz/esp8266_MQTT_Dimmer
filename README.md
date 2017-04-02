@@ -1,6 +1,9 @@
 # ESP MQTT Dimmer
 Control MOSFETs over MQTT to dim LEDs.
 
+## Libs
+PubSubClient
+
 ## Protocol
 
 ### Pin
